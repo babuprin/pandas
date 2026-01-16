@@ -1,0 +1,79 @@
+{
+  "store": "TechMart",
+  "location": "India",
+  "last_updated": "2026-01-12",
+  "products": [
+    {
+      "id": 101,
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 799,
+      "stock": 120,
+      "rating": 4.3,
+      "supplier": {
+        "name": "LogiTech",
+        "country": "China"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 3499,
+      "stock": 60,
+      "rating": 4.6,
+      "supplier": {
+        "name": "KeyPro",
+        "country": "Taiwan"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Laptop Stand",
+      "category": "Office",
+      "price": 1299,
+      "stock": 85,
+      "rating": 4.2,
+      "supplier": {
+        "name": "ErgoWorks",
+        "country": "India"
+      }
+    },
+    {
+      "id": 104,
+      "name": "USB-C Hub",
+      "category": "Accessories",
+      "price": 1999,
+      "stock": 40,
+      "rating": 4.4,
+      "supplier": {
+        "name": "HyperConnect",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 105,
+      "name": "27-inch Monitor",
+      "category": "Displays",
+      "price": 17999,
+      "stock": 25,
+      "rating": 4.5,
+      "supplier": {
+        "name": "ViewMax",
+        "country": "South Korea"
+      }
+    },
+    {
+      "id": 106,
+      "name": "External SSD 1TB",
+      "category": "Storage",
+      "price": 8999,
+      "stock": 30,
+      "rating": 4.7,
+      "supplier": {
+        "name": "FastStore",
+        "country": "Japan"
+      }
+    }
+  ]
+}
